@@ -14,4 +14,4 @@
   * Using Yelp API(https://docs.developer.yelp.com/reference/v3_business_search), we get restaurant rating data: datasets/restaurant_rating.csv
 
 ## 2. Preprocessing Data
-* 
+* Script for EDA: pre_analyses/
