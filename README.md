@@ -12,3 +12,6 @@
   * After data clean up, restaurant hygiene score dataset: datasets/hygiene_data.csv
 * Restaurant Data
   * Using Yelp API(https://docs.developer.yelp.com/reference/v3_business_search), we get restaurant rating data: datasets/restaurant_rating.csv
+
+## 2. Preprocessing Data
+* 
